@@ -1,0 +1,13 @@
+{
+	"name": "tazzydemon/simplespamprotection",
+	"description": "Simple Honeypot Spam Protection",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "spam"],
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Julian Warren",
+			"email": "julian@bitstream.co.nz"
+		}
+	]
+}
